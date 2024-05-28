@@ -1,5 +1,12 @@
 ## Hi there 👋
+My name is Marcus. I'm a college student based from Manila. I'm really into Blender and animation!
 
+- 🌱 I’m currently learning some JavaScript frameworks
+- 💬 Ask me about AR/VR stuff!
+- 📫 How to reach me: custillano@gmail.com
+- 😄 Pronouns: He/him
+
+  Check out [my portfolio](https://custillano-room-bokoko33.vercel.app/) !! This is hosted in Vercel as of now. It's also mobile responsive but I do recommend to experience it on Web, I think it's way cooler!
 <!--
 **Hestice/Hestice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
