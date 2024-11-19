@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Marcus. I'm a college student based in Manila. I'm really into Blender and animation!
+My name is Marcus. I'm a fresh grad based in Cavite. I'm really into Blender and animation!
 
 - 🌱 I’m currently learning some JavaScript frameworks
 - 💬 Ask me about AR/VR stuff!
