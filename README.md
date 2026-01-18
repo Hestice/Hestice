@@ -7,6 +7,8 @@ My name is Marcus. I'm a fresh grad based in Cavite. I'm really into Blender and
 - 😄 Pronouns: He/him
 
   Check out [my 2023 portfolio](https://custillano-room-bokoko33.vercel.app/)!! This is hosted in Vercel as of now, so please bear with its speed🙏. It's also mobile responsive, but I do recommend to experience it on Web, I think it's way cooler!
+
+  WIP because why not [2026 fortpoflio](https://custillano.dev/) web experience recommended.. but do what you want with your free will
 <!--
 **Hestice/Hestice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
